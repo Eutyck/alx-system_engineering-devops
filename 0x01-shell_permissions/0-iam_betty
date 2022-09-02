@@ -1,5 +1,4 @@
 #!/bin/bash
 # changing user account
-
- su  betty
- 
+usermod
+betty
