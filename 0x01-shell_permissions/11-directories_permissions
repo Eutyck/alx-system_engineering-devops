@@ -1,2 +1,2 @@
 #!/bin/bash
-shmod d755 0x01-shell_permissions
+shmod +x 0x01-shell_permissions
