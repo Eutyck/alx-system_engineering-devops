@@ -1,0 +1,16 @@
+total 64
+drwxrwxr-x 2 vagrant vagrant  4096 Sep  5 20:01 .
+drwxrwxr-x 6 vagrant vagrant  4096 Sep  5 12:35 ..
+-rw-rw-r-- 1 vagrant vagrant 12288 Sep  5 18:48 .0-hello_world.swp
+-rwxrwxr-x 1 vagrant vagrant    31 Sep  5 18:48 0x02-shell_redirections
+-rwxrwxr-x 1 vagrant vagrant    29 Sep  5 18:48 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant    19 Sep  5 19:24 11-directories
+-rwxrw-r-- 1 vagrant vagrant    26 Sep  5 19:30 12-newest_files
+-rwxrwxr-x 1 vagrant vagrant    29 Sep  5 18:48 2-hellofile
+-rwxrwxr-x 1 vagrant vagrant    39 Sep  5 18:48 3-twofiles
+-rwxrwxr-x 1 vagrant vagrant    34 Sep  5 18:48 4-lastlines
+-rwxrwxr-x 1 vagrant vagrant    34 Sep  5 18:48 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant    40 Sep  5 19:46 6-third_line
+-rwxrw-r-- 1 vagrant vagrant    36 Sep  5 20:01 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant   235 Sep  5 18:48 README.md
+-rw-rw-r-- 1 vagrant vagrant     0 Sep  5 20:01 ls_cwd_content
