@@ -1,2 +1,2 @@
 #!/bi/bash
-printenv BREATH |LOVE
+echo "$BREATH |LOVE"
