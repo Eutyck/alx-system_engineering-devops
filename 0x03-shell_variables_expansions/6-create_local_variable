@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 BEST="school"
+=======
+BEST=school
+>>>>>>> 07ebce96773ba2ead99e06172da0f91675799b49
